@@ -24,6 +24,19 @@ const fieldsByFile = {
     "form",
     "gloss",
     "condition"
+  ],
+  "讲演安排.json": [
+    "id",
+    "session",
+    "performanceMode",
+    "cast",
+    "text"
+  ],
+  "补录意见.json": [
+    "id",
+    "source",
+    "addedAt",
+    "text"
   ]
 };
 const defaultDirectory = new URL('./资料/', import.meta.url);

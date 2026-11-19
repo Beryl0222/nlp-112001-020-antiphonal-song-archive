@@ -10,7 +10,9 @@ const representativeFile = "听写.json";
 const expectedCounts = {
   "听写.json": 6,
   "场册.json": 2,
-  "词义札记.json": 4
+  "词义札记.json": 4,
+  "讲演安排.json": 3,
+  "补录意见.json": 2
 };
 
 test('全部来稿可按原值读取', async () => {

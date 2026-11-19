@@ -7,6 +7,8 @@
 | `资料/听写.json` | `id`、`event`、`fromMs`、`toMs`、`recorder`、`singer`、`text` |
 | `资料/场册.json` | `id`、`event`、`melody`、`cast`、`text` |
 | `资料/词义札记.json` | `id`、`event`、`form`、`gloss`、`condition` |
+| `资料/讲演安排.json` | `id`、`session`、`performanceMode`、`cast`、`text` |
+| `资料/补录意见.json` | `id`、`source`、`addedAt`、`text` |
 
 每份资料是 JSON 数组。记录中的字段值按来源原样保留为字符串，逗号和顿号可以属于字段内容。资料中可能有转述、不同的拼写以及较晚录入的更正。数字及日期在这些文件中沿用各资料自身的含义；原文位置以记录编号及文本范围定位。
 
