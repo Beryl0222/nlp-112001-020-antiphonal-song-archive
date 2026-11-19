@@ -1,0 +1,56 @@
+[
+  {
+    "id": "r1",
+    "event": "松岭春会",
+    "fromMs": "1500",
+    "toMs": "2600",
+    "recorder": "林晴",
+    "singer": "女甲",
+    "text": "阿咧，川门远"
+  },
+  {
+    "id": "r2",
+    "event": "松岭春会",
+    "fromMs": "1500",
+    "toMs": "2100",
+    "recorder": "闻山",
+    "singer": "阿麦",
+    "text": "啊咧，川门"
+  },
+  {
+    "id": "r3",
+    "event": "松岭春会",
+    "fromMs": "2100",
+    "toMs": "2600",
+    "recorder": "闻山",
+    "singer": "阿麦或舟禾",
+    "text": "远"
+  },
+  {
+    "id": "r4",
+    "event": "松岭春会",
+    "fromMs": "2360",
+    "toMs": "3450",
+    "recorder": "林晴",
+    "singer": "男乙",
+    "text": "川门远么，东湾离水近"
+  },
+  {
+    "id": "r5",
+    "event": "广川夏会",
+    "fromMs": "1500",
+    "toMs": "3000",
+    "recorder": "秋和",
+    "singer": "阿麦",
+    "text": "川门远么，麦花挨桥开"
+  },
+  {
+    "id": "r6",
+    "event": "松岭春会",
+    "fromMs": "2360",
+    "toMs": "2780",
+    "recorder": "闻山",
+    "singer": "舟禾",
+    "text": "山门远么"
+  }
+]

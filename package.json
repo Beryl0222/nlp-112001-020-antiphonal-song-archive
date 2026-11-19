@@ -1,0 +1,14 @@
+{
+  "name": "antiphonal-song-archive",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "对唱实录与词义档案",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "test": "node --test",
+    "materials": "node materials.js"
+  }
+}
